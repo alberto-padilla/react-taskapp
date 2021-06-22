@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Tasks APP (useState, useEffect, localstorage)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ejemplo del uso de useState, useEffect y localstorage con react.\
+
+Aplicación permite guardar tareas y manejar su estado.
 
 ## Available Scripts
 
